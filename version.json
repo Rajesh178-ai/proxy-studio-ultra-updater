@@ -1,4 +1,8 @@
 {
     "latest_version": "1.0.6.2",
-    "download_url": "https://dokpub.com/d/GuZqKSEy92Bxzw"
+    "download_url": [
+        "https://github.com",
+        "https://google.com",
+        "https://yadi.sk/d/GuZqKSEy92Bxzw"
+    ]
 }
